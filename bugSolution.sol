@@ -1,0 +1,1 @@
+function add(a, b) { if (typeof a !== 'number' || typeof b !== 'number') { revert('Inputs must be numbers'); } return a + b; }
