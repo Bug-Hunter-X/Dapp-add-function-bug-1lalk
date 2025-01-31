@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a simple addition function in a Dapp. The bug occurs when non-numeric inputs are provided to the `add` function. The solution demonstrates how to handle such cases using error handling and type checking.
